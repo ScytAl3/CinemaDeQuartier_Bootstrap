@@ -1,0 +1,132 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 12 févr. 2019, 08:32:38
+    Author     : Stagiaire
+*/
+
+/* ------------------------------------------
+
+    Définition des polices personnalisées
+
+------------------------------------------ */
+
+@font-face
+{
+    
+}
+
+@font-face
+{
+    
+}
+
+/* ----------------------- 
+
+Élement principaux
+
+------------------------ */
+
+html {
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    color: #242424;
+    background-color: #EDEDED;
+    line-height: 1.5em; 
+}
+
+p {
+    font-weight: 300;
+    font-size: 0.8em;
+}
+
+/* ----------------------
+
+Header
+
+---------------------- */
+
+header {
+    background: #e6ffe6;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-family: 'Bernard MT', Arial, sans-serif;
+    font-size: 6.5em;
+    text-shadow: 2px 2px 6px #000;
+    margin: auto;
+}
+
+@media (max-width: 720px) {
+    header h1 {
+        font-size: 4.5em;
+    }
+}
+/* -------------------------------- 
+
+Navigation et recherche
+
+-------------------------------- */
+
+header nav{
+    text-transform: uppercase;
+    width: 100%;
+}
+
+header nav li {
+    padding: 0 10px;
+}
+
+/* -------------------------------- 
+
+Le corps
+
+-------------------------------- */
+section {
+    background-color: #57aa7c;
+}
+
+aside {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;    
+    padding: 10px 0 10px 0;
+    color: white;
+    font-size: 0.9em;
+    background-color: #ffffcc;
+}
+
+.article {
+    display: flex;
+    flex-direction: column;
+    color: black;
+    background-color: #669999;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.article h3 {
+    text-decoration: underline;
+    font-family: 'Bodoni MT', Arial, sans-serif;
+}
+
+/* -------------------------------- 
+
+Footer
+
+-------------------------------- */
+
+footer a {
+    font-weight: 300;
+    color: #495057;
+}
