@@ -25,3 +25,10 @@ Conception d'un petit site dynamique pour un cinéma de quartier :
 	* Création des options de la liste déroulante pour le choix des titres.
 	* Création de la balise \<img> pour l’affiche et d’une \<div> pour les informations, méthode.
 	* Suppression dynamique des éléments existants pour afficher les nouveaux.
+	
+## _Screenshots :_
+
+* Design screenshots :
+
+![Image of homepage](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/1-conception_page_accueil.png)
+
