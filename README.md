@@ -31,4 +31,10 @@ Conception d'un petit site dynamique pour un cinéma de quartier :
 * Design screenshots :
 
 ![Image of homepage](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/1-conception_page_accueil.png)
+![Image of login page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/2-conception_page_connexion.png)
+![Image of registration page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/3-conception_page_inscription.png)
+![Image of search page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/4-conception_page_recherche.png)
+___
+* Production screenshots :
+
 
