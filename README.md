@@ -26,15 +26,39 @@ Conception d'un petit site dynamique pour un cinéma de quartier :
 	* Création de la balise \<img> pour l’affiche et d’une \<div> pour les informations, méthode.
 	* Suppression dynamique des éléments existants pour afficher les nouveaux.
 	
-## _Screenshots :_
+## _Design Screenshots :_
 
-* Design screenshots :
-
+* Home page :
 ![Image of homepage](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/1-conception_page_accueil.png)
+
+* Login page :
 ![Image of login page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/2-conception_page_connexion.png)
+
+* Registration page :
 ![Image of registration page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/3-conception_page_inscription.png)
+
+* Search page :
 ![Image of search page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/4-conception_page_recherche.png)
 ___
-* Production screenshots :
+## Production Screenshots :_
 
+* Responsive Homepage :
+![Image of Responsive Homepage page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/1-Accueil_Responsive.png)
 
+* Login validation Page :
+![Image of Login validation page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/2-Connexion_Validation.png)
+
+* Registration validation Page :
+![Image of Registration validation page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/3-Inscription_Validation.png)
+
+* Registration validate Page :
+![Image of Registration validate page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/4-Inscription_Valide.png)
+
+* Localstorage for username Page :
+![Image of Localstorage for username](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/5-Passage_Parametres.png)
+
+* Film choice Page :
+![Image of Film choice](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/6-Choix_Film.png)
+
+* Display movie information Page :
+![Image of Display movie information page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/7-Affichage_Film.png)
