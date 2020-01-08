@@ -40,7 +40,7 @@ Conception d'un petit site dynamique pour un cinéma de quartier :
 * Search page :
 ![Image of search page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/1-Design/4-conception_page_recherche.png)
 ___
-## Production Screenshots :_
+## _Production Screenshots :_
 
 * Responsive Homepage :
 ![Image of Responsive Homepage page](https://github.com/ScytAl3/CinemaDeQuartier_Bootstrap/blob/master/screenshot/2-Production/1-Accueil_Responsive.png)
